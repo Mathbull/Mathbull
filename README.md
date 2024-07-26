@@ -6,7 +6,7 @@
 [![typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vcenter=true&width=1000&lines=HELLO,+MY+NAME+IS+MATHEUS+SANTOS;I'M+25+yars+old;I'm+from+Brazil,+São+Paulo;I+study+computer+Science+:%29)](https://git.io/typing-svg)
 
 <div align="center" >
-  <img width="45%" height="170" src="https://github-readme-stats.vercel.app/api?username=Mathbull&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus B A Santos">
+  <img width="40%" height="170" src="https://github-readme-stats.vercel.app/api?username=Mathbull&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus B A Santos">
 
   <img width="31%" heigth="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mathbull&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117">
 </div>
