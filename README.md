@@ -1,3 +1,6 @@
+
+<div background-color="black">
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=140&section=header&fontcolor=fff&animation=twinkling&fontAlignY=25" >
 
 [![typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vcenter=true&width=1000&lines=HELLO,+MY+NAME+IS+MATHEUS+SANTOS;I'M+25+yars+old;I'm+from+Brazil,+São+Paulo;I+study+computer+Science+:%29)](https://git.io/typing-svg)
@@ -28,3 +31,4 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="windows" alt="windows" width="40" height="40"/>
 
 </div>   
+</div>
