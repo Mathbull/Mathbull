@@ -1,5 +1,4 @@
 
-<div background-color="black">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=140&section=header&fontcolor=fff&animation=twinkling&fontAlignY=25" >
 
@@ -19,17 +18,23 @@
   <a href="https://www.instagram.com/math_bull/" target="_blank" > <img src="https://img.shields.io/badge/-instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" </a>
 </div>
 
- <div>
+ <div align="Center">
    
 ### Main skills:
-| Python3 | Snowflake | Spark  | JS | Java | CSS3 |
-|----------|----------|----------|----------|----------|----------|
-|<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />|<img  height="40" width="40" src="https://cdn.simpleicons.org/snowflake" alt="snowflake">|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="40" height="40"/>|<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />|<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" />|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>| 
+| Python3 | Snowflake | Spark  | JS | Java | 
+|----------|----------|----------|----------|----------|
+|<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />|<img  height="40" width="40" src="https://cdn.simpleicons.org/snowflake" alt="snowflake">|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="40" height="40"/>|<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />|<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" />|
 
 ### Tools:
-| VS Code | PyCharm | windows  | microsoft-office |
+| VS Code | PyCharm | windows | Microsoft 365 |
 |----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="windows" alt="windows" width="40" height="40"/>
+| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="windows" alt="windows" width="40" height="40"/>|    <img src="https://github.com/OfficeDev/office-js-docs-pr/blob/main/docs/images/index/logo-office.svg" title="windows" alt="windows" width="40" height="40"/>
+
+
+### Other Knowledge:
+| HTML | CSS | Django  | Flask | C# | Postgres | SQLite | Power BI |
+|----------|----------|----------|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="40" height="40"/> | <img src="https://techstack-generator.vercel.app/django-icon.svg" title="Django" alt="Django" width="40" height="40"/>|    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" title="Flask" alt="Flask" width="40" height="40"/>
 
 </div>   
-</div>
+
