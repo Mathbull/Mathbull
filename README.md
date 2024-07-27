@@ -23,7 +23,7 @@
 ### Main skills:
 | Python3 | Snowflake | Spark  | JS | Java | 
 |----------|----------|----------|----------|----------|
-|<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />|<img  height="40" width="40" src="https://cdn.simpleicons.org/snowflake" alt="snowflake">|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="40" height="40"/>|<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />|<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" />|
+|<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />|<img  height="40" width="40" src="https://cdn.simpleicons.org/snowflake" alt="snowflake">|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="40" height="40"/>|<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS" width="40" height="40" />|<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" />|
 
 ### Tools:
 | VS Code | PyCharm | windows | Microsoft 365 |
@@ -36,5 +36,17 @@
 |----------|----------|----------|----------|----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="40" height="40"/> | <img src="https://techstack-generator.vercel.app/django-icon.svg" title="Django" alt="Django" width="40" height="40"/>|    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" title="Flask" alt="Flask" width="40" height="40"/>| <img src="https://techstack-generator.vercel.app/csharp-icon.svg" title="C#" alt="C#" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Postgres" alt="Postgres" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>|    <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" title="Power BI" alt="Power BI" width="40" height="40"/>
 
+
+### Studying in this moment
+
+| Django | JS | HTMX | Sklearn | TensorFlow | Pandas | 
+|----------|----------|----------|----------|----------|----------|
+| <img src="https://techstack-generator.vercel.app/django-icon.svg" title="Django" alt="Django" width="40" height="40"/> | <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS" width="40" height="40" /> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Htmx-Dark.svg" title="HTMX" alt="HTMX" width="40" height="40"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Sklearn" alt="Sklearn" width="40" height="40"/>| <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/> | 
 </div>   
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Mathbull}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
